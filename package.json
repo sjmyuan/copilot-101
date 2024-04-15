@@ -1,0 +1,14 @@
+{
+  "name": "copilot-101",
+  "version": "1.0.0",
+  "description": "copilot exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "copilot"
+  ],
+  "author": "brant feng",
+  "license": "MIT"
+}
